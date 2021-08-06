@@ -1,0 +1,13 @@
+{
+  "name": "vue-util-components",
+  "version": "1.0.0",
+  "description": "In this repo you can find vuejs components common to many projects.",
+  "main": "index.js",
+  "repository": "https://github.com/Smaug6739/vue-util",
+  "author": "Smaug6739",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "vue": "^2.6.14"
+  }
+}
